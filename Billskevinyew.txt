@@ -1,0 +1,14 @@
+	 Welcome to OSHSE 
+
+ Customer ID : kevinyew
+ Customer Name : kevin
+ Phone Number : 81293891
+ Address : 123123
+ ====================================
+ Products		QTY		Price
+ ====================================
+ SmartHome1-Light		1		70
+ SmartHome1-Safe		1		200
+ ------------------------------------
+ Total Bill : 		 SGD 270.0
+ ------------------------------------

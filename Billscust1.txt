@@ -1,0 +1,13 @@
+	 Welcome to OSHSE 
+
+ Customer ID : cust1
+ Customer Name : Customer 1
+ Phone Number : 85123742
+ Address : NUS
+ ====================================
+ Products		QTY		Price
+ ====================================
+ Light2		1		60
+ ------------------------------------
+ Total Bill : 		 SGD 60.0
+ ------------------------------------

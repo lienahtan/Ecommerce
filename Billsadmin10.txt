@@ -1,0 +1,13 @@
+	 Welcome to OSHSE 
+
+ Customer ID : admin10
+ Customer Name : Administrator
+ Phone Number : 82571233
+ Address : NUS School of computing
+ ====================================
+ Products		QTY		Price
+ ====================================
+ Light1		1		50
+ ------------------------------------
+ Total Bill : 		 SGD 50.0
+ ------------------------------------
